@@ -1,0 +1,4 @@
+1. Missing Data
+2. Duplicated Data
+3. Wrong Data
+4. Binning

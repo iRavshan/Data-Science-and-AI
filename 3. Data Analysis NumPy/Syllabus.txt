@@ -1,0 +1,92 @@
+0. Chiziqli algebra asoslari
+	0.1 Matritsa nima?
+	0.2 Kvadrat matritsalar
+	0.3 Matritsalarning umumiy ko'rinishi
+	0.4 Diagonal matritsa
+	0.5 Birlik matritsa
+	0.6 Nol matritsalar
+	0.7 Ustun vektor va satr vector
+	0.8 Matritsaning son(skalar) ga ko'paytmasi
+	0.9 Matritsalarni qo'shish va ayirish
+	0.10 Matritsalarning ko'paytmasi
+	0.11 Matritsani transponirlash
+	0.12 Matritsaga qarama-qarshi matritsa
+	0.13 Matritsa determinantini hisoblash
+	0.14 Matritsaga teskari matritsa
+	
+1. NumPy bilan tanishuv:
+	1.1 NumPy massivlar va python ro'yxatlarining tezliklarini taqqoslash
+	1.2 python ro'yxatlar va NumPy massivlar qiymatlarining farqi
+	1.3 NumPy dagi ma'lumotlar turlari
+	1.4 Python ro'yxatlarni NumPy massivlarga aylantirish
+	1.5 NumPy massivlar yaratish
+	1.6 NumPy massivlarning xususiyatlarini aniqlash
+
+2. Indekslash va kesish:
+	2.1 Bir o'lchamli massivlarda indekslash
+	2.2 Ikki o'lchamli massivlarda indekslash
+	2.3 Uch o'lchamli massivlarda indekslash
+	2.4 Mantiqiy (Boolean) indekslash
+	2.5 Manfiy indekslash
+	2.6 Bir o'lchamli massivlarni kesish
+	2.7 Ikki o'lchamli massivlarni kesish
+	2.8 Uch o'lchamli massivlarni kesish
+	2.9 Manfiy indekslar orqali kesish
+
+3. Massivlarni o'zgartirish (transformation)
+	3.1 Reshape
+	3.2 Resize
+	3.3 Flatten
+	3.4 Ravel
+	3.5 Transpose
+	3.6 Swap Axes
+	3.7 Flip
+
+4. Random funksiyalar (random moduli):
+	4.1 Massivlar yaratish
+	4.2 Taqsimot. Distribution
+
+5. Chiziqli algebra masalalarini ishlash (linalg moduli):
+	5.1 Matritsalarni qo'shish
+	5.2 Matritsalarni ayirish
+	5.3 Matritsani skalarga ko'paytirish
+	5.4 Matritsalarni ko'paytirish
+	5.5 
+
+6. Universal funksiyalar (ufunc moduli):
+	6.1 Funksiya yaratish
+	6.2 Arifmetik amallar 
+	6.3 Haqiqiy sonlarni yaxlitlash
+	6.4 Logarifmlar
+	6.5 Yig'indilar
+	6.6 Products
+	6.7 Tafovutlar
+	6.8 EKUK
+	6.9 EKUB
+	6.10 Trigonometrik funksiyalar
+	6.11 Giperbolik funksiyalar
+	6.12 To'plamlar ustida amallar
+
+7. NumPy bilan xayrlashuv:
+	7.1 where()
+	7.2 searchsorted()
+	7.3 max() & min() & mean()
+	7.4 argmax() & argmin()
+	7.5 diag()
+	7.6 full()
+	7.7 repeat()
+	7.8 seed()
+	7.9 matrix()
+	7.10 expand_dims()
+	7.11 squeeze()
+	7.12 count_nonzero()
+	7.13 sort()
+	7.14 concatenate()
+	7.15 stack() & vstack() & hstack() & dstack()
+	7.16 array_split() & hsplit() & vsplit() & dsplit()
+	7.17 sort()
+	7.18 Filter Array
+	7.19 Fayllar bilan ishlash
+	
+
+

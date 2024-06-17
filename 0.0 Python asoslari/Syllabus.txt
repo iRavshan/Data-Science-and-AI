@@ -1,0 +1,103 @@
+1. Pythonni o'rnatish va virtual muhit
+2. Pythonda o'zgaruvchilar:
+	2.1. O'zgaruvchilarga nom berish
+	2.2. Casting
+	2.3. Get the Type
+	2.4. Single or Double Quotes?
+	2.5. Case-Sensitive: a va A
+	2.6. Ko'p o'zgaruvchilarni bir qatorda e'lon qilish
+	2.7. Qiymatlarni chop etish
+	2.8. Comments
+3. Ma'lumotlar turlari:
+	3.1. str - matn turi
+	3.2. int, float, complex - son turlari
+	3.3. list, tuple, range - ketma-ketliklar
+	3.4. dict - xaritalash turi
+	3.5. set, frozenset - to'plam turlari
+	3.6. bool - mantiqiy tur
+	3.7. bytes, bytearray, memoryview - ikkilik turlari
+	3.8. None - None Type 
+4. Satrlar:
+	4.1. Satrlarni e'lon qilish
+	4.2. Qirqib olish - [3:]
+	4.3. Satrlarni o'zgartirish
+	4.4. Satrlarni birlashtirish
+	4.5. Ayrim string metodlari
+5. Pythonda operatorlar:
+	5.1 Arifmetik operatorlar
+	5.2 Assignment operators
+	5.3 Taqqoslash operatorlari
+	5.4 Mantiqiy operatorlar
+	5.5 Identifikatsiya operatorlari
+	5.6 Bitwise operatorlari
+6. Ro'yxatlar:
+	6.1 Ro'yxat yaratish
+	6.2 Ro'yxat elementlariga murojaat - indekslash
+	6.3 Slicing
+	6.4 Ro'yxat elementlarini o'zgartirish
+	6.5 Yangi elementlar qo'shish
+	6.6 Ro'yxatdan elementlarni o'chirish
+	6.7 Ro'yxat elementlarini saralash
+	6.8 Ro'yxatni nusxalash
+7. User Input:
+	7.1 Bitta ma'lumot kiritish
+	7.2 Bir nechta ma'lumotlar kiritish
+	7.3 Ma'lumotlarni ma'lum aniqlikda chiqarish
+8. Shart operatorlari:
+	8.1 if
+	8.2 if else
+	8.3 if elif else
+	8.4 if else in one line
+9. Sikllar
+	9.1 For Loop
+	9.2 While Loop
+	9.3 While Loop + else
+10. Funksiyalar
+	10.1 Funksiya o'zi nima?
+	10.2 Built-in vs User Defined functions
+	10.3 Parametrlar va Argumentlar
+	10.4 Default arguments
+	10.5 args
+	10.6 kwargs
+	10.7 DocStrings
+	10.8 Parametrlar va funksiya qaytaradigan turni aniqlash
+11. Lambda funksiyalar
+	11.1 Lambda funksiyalar o'zi nima?
+	11.2 Lambda funksiyalar yaratish
+	11.1 map() function
+	11.2 filter() function
+	11.3 zip() function
+12. Iteratorlar va Generatorlar
+	12.1 Iteratsiya o'zi nima?
+	12.2 iter() va __next__()
+	12.3 enumerate()
+	12.4 zip()
+	12.5 Generatorlar o'zi nima?
+	12.6 lazy evaluation
+	12.7 yield
+13. Sinf va obyektlar
+	13.1 Nega OOP kerak?
+	13.2 Class nima?
+	13.3 Class yaratish
+	13.4 Classning attributlari
+	13.5 Classning metodlari
+	13.6 Classga tegishli obyektlar yaratish
+14. Dunder metodlar
+	14.1 Dunder metodlar o'zi nima?
+	14.2 dir() funksiyasi
+	14.3 Ayrim dunder metodlarni ishlatish
+15. Vorislik (Inheritance)
+16. Abstraksiya (Abstraction)
+17. Rekursiya
+	17.1 Rekursiya o'zi nima?
+	17.2 Rekursiv funksiyalar
+	17.3 Rekursiyaga oid misollar
+18. Inkapsulatsiya (Encapsulation)
+19. Polimorfizm (Polymorphism)
+20. OOP bo'yicha qo'shimcha bilimlar
+21. Module yaratish
+22. Scope
+23. Dates and Math (mustaqil)
+24. JSON dan foydalanish
+25. Try ... Except
+26. Fayllar bilan ishlash

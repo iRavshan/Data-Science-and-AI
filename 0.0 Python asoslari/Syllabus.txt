@@ -94,10 +94,20 @@
 	17.3 Rekursiyaga oid misollar
 18. Inkapsulatsiya (Encapsulation)
 19. Polimorfizm (Polymorphism)
-20. OOP bo'yicha qo'shimcha bilimlar
+	19.1 Funksiya polimorfizmi
+	19.2 Sinflarda polimorfizm
+	19.3 Vorislikda polimorfizm
+20. OOP bo'yicha qo'shimcha bilimlar:
+	20.1 Data Class
+	20.2 class method
+	20.3 static methods
+	20.4 __slots__
+	20.5 descriptors
+	20.6 Defining interfaces with typing. Protocol
+	20.7 Metaclasses
+	20.8 class decorators
 21. Module yaratish
 22. Scope
-23. Dates and Math (mustaqil)
-24. JSON dan foydalanish
-25. Try ... Except
-26. Fayllar bilan ishlash
+23. JSON dan foydalanish
+24. Try ... Except
+25. Fayllar bilan ishlash

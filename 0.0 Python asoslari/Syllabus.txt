@@ -97,6 +97,16 @@
 	19.1 Funksiya polimorfizmi
 	19.2 Sinflarda polimorfizm
 	19.3 Vorislikda polimorfizm
+21. Module yaratish
+22. Scope
+	22.1 What is scope?
+	22.2 Local scope
+	22.3 Enclosing scope
+	22.4 Global scope
+	22.5 Global keyword
+23. try ... except ... finally
+24. JSON dan foydalanish
+25. Fayllar bilan ishlash
 20. OOP bo'yicha qo'shimcha bilimlar:
 	20.1 Data Class
 	20.2 class method
@@ -106,8 +116,3 @@
 	20.6 Defining interfaces with typing. Protocol
 	20.7 Metaclasses
 	20.8 class decorators
-21. Module yaratish
-22. Scope
-23. JSON dan foydalanish
-24. Try ... Except
-25. Fayllar bilan ishlash

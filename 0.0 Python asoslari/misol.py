@@ -24,3 +24,19 @@ def f(n):
 
 print(f(x))  
 '''
+
+s = input()
+
+sozlar = s.split()
+counter = 0
+javoblar = []
+
+for soz in sozlar:
+    if soz.endswith('NA'):
+        counter += 1
+        javoblar.append(soz)
+
+print(counter)
+
+for javob in javoblar:
+    print(javob)

@@ -23,20 +23,64 @@ def f(n):
         return f(n+1) - f(n-3)
 
 print(f(x))  
-'''
+
 
 s = input()
 
-sozlar = s.split()
-counter = 0
-javoblar = []
+raqamlar = (1, 2, 3, 4, 5, 6, 7, 8, 9)
+summa = 0
 
-for soz in sozlar:
-    if soz.endswith('NA'):
-        counter += 1
-        javoblar.append(soz)
+s = s.replace('0', '')
 
-print(counter)
+for r in s:
+    summa += raqamlar[int(r) - 1] * s.count(r)
+    s = s.replace(r, '')
 
-for javob in javoblar:
-    print(javob)
+print(summa)
+'''
+
+'''
+x, y = list(map(float, input().split()))
+print(max(x, y), min(x, y))
+
+x, y, z = list(map(float, input().split()))
+
+print(f'{max(x+y+z, x, y, z):.2f}', f'{(min(x+y/2.0, x, y, z) ** 2):.2f}')
+
+
+from math import *
+
+x, y, a, b= list(map(int, input().split()))
+
+s=0
+p=1
+sp=0
+sp_sub=1
+
+for j in range(1, x +1):
+    s += (j ** 2 + 2 * j) /(j ** 3 + j * cos(j) ** 2 +1)
+ 
+for m in range(1, y +1):
+    p *= (m ** 2 + 1) / (pow(m, 3/m) + 2)
+ 
+for i in range(1, a+1):
+
+    for k in range(1, b+1):
+        sp_sub *= log((pow(k, i) + pow(k, 1/i)) / (pow(k, 3) + pow(i, 1/k)))
+
+    sp += sp_sub
+    sp_sub = 1
+
+print(f'{s:.2f}', f'{p:.2f}', f'{sp:.2f}')
+'''
+
+a = float(input())
+
+if a <= -1:
+    print(f'{(-1 * a - 1):.2f}')
+elif a >= -1 and a <= 0:
+    print(f'{(a + 1):.2f}')
+elif a >= 0 and a <= 1:
+    print(f'{(-1 * a + 1):.2f}')
+else:
+    print(f'{(a - 1):.2f}') 

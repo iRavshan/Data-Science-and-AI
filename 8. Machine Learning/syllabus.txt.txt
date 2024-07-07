@@ -1,0 +1,39 @@
+1. Loyiha qadamlari
+2. Ma'lumotlarni tayyorlash:
+	2.1. NaN qiymatlar
+	2.2. Dublikatlar
+	2.3. Keraksiz ustunlar
+	2.4. Notabiiy qiymatlar bilan ishlash
+	2.5. Saralash va indekslash
+	2.6. Ma'lumotlarni vizuallashtirish
+3. Ma'lumotlarni tayyorlash:
+	3.0. Korrelatsiya nima?
+	3.1. Korrelatsiyani aniqlash
+	3.2. Yangi paramatrlar yaratish
+	3.3. Encoding nima?
+	3.4. OrdinalEncoder()
+	3.5. LabelEncoder()
+	3.6. OneHotEncoder()
+	3.7. Feature Scaling nima?
+	3.8. Standartizatsiya vs Normalizatsiya
+	3.9. Min Max Scaling
+	3.10. Mean Normalization
+	3.11. Max Absolute Scaling
+	3.12. Robust Scaling
+	3.13. Standard Scaler
+4. Pipeline:
+	4.1. What is pipeline and why do we need it?
+	4.2. Transformerlar
+	4.3. Imputerlar
+	4.4. Pipeline qurish
+5. Datasetni ajratish:
+	5.2 Reducing memory usage
+	5.1 Training dataset
+	5.2 Test dataset
+	5.3 Cross-validation
+	5.4 Validation set
+6. Modelni baholash:
+	6.1 RMSE
+	6.2 AME
+7. Hyperparameter tuning:
+8. Auto Machine Learning

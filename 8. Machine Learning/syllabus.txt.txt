@@ -34,6 +34,6 @@
 	5.4 Validation set
 6. Modelni baholash:
 	6.1 RMSE
-	6.2 AME
+	6.2 MAE
 7. Hyperparameter tuning:
 8. Auto Machine Learning

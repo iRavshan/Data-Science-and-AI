@@ -5,6 +5,8 @@ Classification:
 	1.2 SVM
 	1.3 Decision Tree
 	1.4 Random Forest
+	1.5 Logistic Regression
+	1.6 Naive Bayes
 2. Evaluation Metrics:
 	2.1 Jaccard Index
 	2.2 confusion matrix
@@ -15,3 +17,6 @@ Classification:
 3. Hyperparameter Tuning:
 	2.1 Manual Tuning
 	2.2 GridSearchCV
+4. Saving Machine Learning Models:
+	4.1 save
+	4.2 load
